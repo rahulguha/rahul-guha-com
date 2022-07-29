@@ -16,13 +16,13 @@
 }
 
 .main {
-  display: flex;
+  /* display: flex; */
   padding-bottom: 4rem;
   flex-direction: column;
-  padding-left: 1rem;
+  padding-left: 0;
   padding-right: 1rem;
   min-width: 0;
   max-width: 48.75rem;
-  margin-left: auto;
+  margin-left: 50px;
   margin-right: auto;
 }
