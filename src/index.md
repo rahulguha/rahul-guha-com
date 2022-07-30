@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Eleventy Duo'
-image: '/images/me.jpeg'
+image: '/images/rahul-window.jpg'
 ---
 
 # Hello World
