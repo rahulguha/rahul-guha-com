@@ -3,7 +3,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/a-simple-post/</loc>
+        <loc>https://rahul-guha.com/posts/a-simple-post/</loc>
         
           <lastmod>2020-10-18T00:00:00.000Z</lastmod>
         
@@ -14,7 +14,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/another-simple-post/</loc>
+        <loc>https://rahul-guha.com/posts/another-simple-post/</loc>
         
           <lastmod>2020-10-22T00:00:00.000Z</lastmod>
         
@@ -25,7 +25,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/even-yet-another-simple-post/</loc>
+        <loc>https://rahul-guha.com/posts/even-yet-another-simple-post/</loc>
         
           <lastmod>2020-10-25T00:00:00.000Z</lastmod>
         
@@ -36,7 +36,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/yet-another-simple-post/</loc>
+        <loc>https://rahul-guha.com/posts/yet-another-simple-post/</loc>
         
           <lastmod>2020-10-29T00:00:00.000Z</lastmod>
         
@@ -47,7 +47,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/a-post-with-code-samples/</loc>
+        <loc>https://rahul-guha.com/posts/a-post-with-code-samples/</loc>
         
           <lastmod>2021-02-12T00:00:00.000Z</lastmod>
         
@@ -58,7 +58,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/another-post-with-code-samples/</loc>
+        <loc>https://rahul-guha.com/posts/another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-19T00:00:00.000Z</lastmod>
         
@@ -69,7 +69,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/even-yet-another-post-with-code-samples/</loc>
+        <loc>https://rahul-guha.com/posts/even-yet-another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-23T00:00:00.000Z</lastmod>
         
@@ -80,7 +80,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/yet-another-post-with-code-samples/</loc>
+        <loc>https://rahul-guha.com/posts/yet-another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-26T00:00:00.000Z</lastmod>
         
@@ -91,7 +91,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/a-post-with-rich-media/</loc>
+        <loc>https://rahul-guha.com/posts/a-post-with-rich-media/</loc>
         
           <lastmod>2020-12-20T00:00:00.000Z</lastmod>
         
@@ -102,7 +102,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/another-post-with-rich-media/</loc>
+        <loc>https://rahul-guha.com/posts/another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-21T00:00:00.000Z</lastmod>
         
@@ -113,7 +113,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/even-yet-another-post-with-rich-media/</loc>
+        <loc>https://rahul-guha.com/posts/even-yet-another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-24T00:00:00.000Z</lastmod>
         
@@ -124,7 +124,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/yet-another-post-with-rich-media/</loc>
+        <loc>https://rahul-guha.com/posts/yet-another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-28T00:00:00.000Z</lastmod>
         
@@ -135,7 +135,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/a-post-with-mermaid-charts/</loc>
+        <loc>https://rahul-guha.com/posts/a-post-with-mermaid-charts/</loc>
         
           <lastmod>2021-03-22T00:00:00.000Z</lastmod>
         
@@ -146,7 +146,7 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
+        <loc>https://rahul-guha.com/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
         
           <lastmod>2021-06-28T00:00:00.000Z</lastmod>
         
@@ -157,20 +157,9 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/about/</loc>
+        <loc>https://rahul-guha.com/about/</loc>
         
-          <lastmod>2022-07-30T13:53:20.308Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/blog/</loc>
-        
-          <lastmod>2022-07-30T13:53:20.308Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.853Z</lastmod>
         
         
         
@@ -179,20 +168,9 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/</loc>
+        <loc>https://rahul-guha.com/blog/</loc>
         
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/robots.txt</loc>
-        
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.853Z</lastmod>
         
         
         
@@ -201,20 +179,9 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/tags/demo-content/</loc>
+        <loc>https://rahul-guha.com/</loc>
         
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/tags/simple-post/</loc>
-        
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
         
         
         
@@ -223,20 +190,9 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/tags/code/</loc>
+        <loc>https://rahul-guha.com/robots.txt</loc>
         
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/tags/mermaid/</loc>
-        
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
         
         
         
@@ -245,9 +201,9 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/tags/media/</loc>
+        <loc>https://rahul-guha.com/tags/demo-content/</loc>
         
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
         
         
         
@@ -256,9 +212,53 @@
   
     
       <url>
-        <loc>https://rahul-guha.com/rahul-guha-com/whoami/</loc>
+        <loc>https://rahul-guha.com/tags/simple-post/</loc>
         
-          <lastmod>2022-07-30T13:53:20.316Z</lastmod>
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://rahul-guha.com/tags/code/</loc>
+        
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://rahul-guha.com/tags/mermaid/</loc>
+        
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://rahul-guha.com/tags/media/</loc>
+        
+          <lastmod>2022-07-30T14:09:37.861Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://rahul-guha.com/whoami/</loc>
+        
+          <lastmod>2022-07-30T14:09:37.865Z</lastmod>
         
         
         
