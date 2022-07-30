@@ -8,6 +8,6 @@ image: '/images/rahul-window.jpg'
 
 This is my personal website. 
 
-This will host various thoughts that I created over time,  my latest resume (Whoami) and about the man behind the words.
+This will host  random thoughts that I created over time (and will create in future),  my latest resume (Whoami) and about the man behind the words.
 
 Hope you like it !
