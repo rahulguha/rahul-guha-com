@@ -1,8 +1,11 @@
 ---
 layout: home
 title: 'Eleventy Duo'
+image: '/images/me.jpeg'
 ---
 
 # Hello World
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+This is my personal website. 
+
+This will host various thoughts that I created over time,  my latest resume (Whoami) and about the man behind the words.

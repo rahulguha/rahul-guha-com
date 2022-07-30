@@ -4,7 +4,12 @@ layout: base
 
 <header class="hero">
   <div class="hero-content">
-    <div class="intro">
+    {# <div class="intro">
+      <img src="{{ image | url }}" alt="" class="about__image">
+      {{ content | safe }}
+    </div> #}
+    <div class="about">
+      <img src="{{ image | url }}" alt="" class="about__image">
       {{ content | safe }}
     </div>
 
