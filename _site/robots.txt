@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rahul-guha.com/sitemap.xml
