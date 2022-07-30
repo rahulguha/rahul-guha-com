@@ -143,7 +143,7 @@ You can set up a [remote admin](https://forestry.io/docs/editing/remote-admin/) 
 
 ## Deployment
 
-This is deployed using github pages - you can see the final outcome at http://www.<a href="rahul-guha.com" /> 
+This is deployed using github pages - you can see the final outcome at <a href="rahul-guha.com" >www.rahulguha.com </a> 
 
 - Create a new site in Netlify and import your repository.
 
