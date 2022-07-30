@@ -143,7 +143,7 @@ You can set up a [remote admin](https://forestry.io/docs/editing/remote-admin/) 
 
 ## Deployment
 
-[Netlify](https://netlify.com) is a great way to easily deploy sites. There's no special setup you need to do with Forestry to deploy with Netlify. When Forestry makes commits to your repo, Netlify will auto-trigger a rebuild / deploy when new commits are made.
+This is deployed using github pages - you can see the final outcome at http://www.<a href="rahul-guha.com" /> 
 
 - Create a new site in Netlify and import your repository.
 
